@@ -24,7 +24,7 @@ import streamlit as st
 st.header("YESTERDAYS TECH SOLUTION")
 st.subheader("OUR MISION :\n", 
          "Empoering youth-An escape from drugs.")
-st.image("/Users/mac/Downloads/istockphoto-1465723262-170667a.webp", caption="Image caption", use_column_width=True)
+st.image("/Users/mac/Desktop/Stramlit/App 1/istockphoto-1465723262-170667a.webp", caption="Image caption", use_column_width=True)
 
 st.subheader(" ***** RATED *****")
 rate = st.slider("rate:",min_value=0.0,max_value=5.0, step=0.1, value=2.5 )
